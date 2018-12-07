@@ -1,5 +1,5 @@
 # Interface-graphique-projet-S.A.R.A.H-12
-Interpface graphique projet S.A.R.A.H - Megan Fox (taille 902 X 1080) V2
+Interface graphique projet S.A.R.A.H - Megan Fox (taille 902 X 1080) V2
 Interface Graphique pour S.A.R.A.H (http://encausse.net/s-a-r-a-h)
 
 Interface réalisée pour EVIE (version S.A.R.A.H de Hervé le Hibou)
